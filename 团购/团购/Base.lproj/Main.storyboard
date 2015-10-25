@@ -47,6 +47,9 @@
                                 <rect key="frame" x="31" y="243" width="240" height="128"/>
                                 <color key="backgroundColor" red="0.39999364009999999" green="1" blue="0.50914654179999996" alpha="1" colorSpace="calibratedRGB"/>
                             </imageView>
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" fixedFrame="YES" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="3OO-3y-xHs">
+                                <rect key="frame" x="26" y="418" width="150" height="2"/>
+                            </progressView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
