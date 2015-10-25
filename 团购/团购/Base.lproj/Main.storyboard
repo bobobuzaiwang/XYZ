@@ -25,6 +25,18 @@
                                     <segment title="Second"/>
                                 </segments>
                             </segmentedControl>
+                            <pageControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="zw4-Pe-bBB">
+                                <rect key="frame" x="200" y="334" width="39" height="37"/>
+                                <animations/>
+                            </pageControl>
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" fixedFrame="YES" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="5Zw-Ig-uV8">
+                                <rect key="frame" x="31" y="95" width="150" height="2"/>
+                                <animations/>
+                            </progressView>
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="Y4B-3I-dq8">
+                                <rect key="frame" x="82" y="129" width="94" height="29"/>
+                                <animations/>
+                            </stepper>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
