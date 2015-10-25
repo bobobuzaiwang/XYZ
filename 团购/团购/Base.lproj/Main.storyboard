@@ -43,6 +43,10 @@
                             <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="qLt-5R-qGh">
                                 <rect key="frame" x="82" y="184" width="94" height="29"/>
                             </stepper>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="eXt-Vu-fJP">
+                                <rect key="frame" x="31" y="243" width="240" height="128"/>
+                                <color key="backgroundColor" red="0.39999364009999999" green="1" blue="0.50914654179999996" alpha="1" colorSpace="calibratedRGB"/>
+                            </imageView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
